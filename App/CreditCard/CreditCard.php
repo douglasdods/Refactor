@@ -1,4 +1,5 @@
 <?php
+
 namespace App\CreditCard;
 
 class CreditCard
